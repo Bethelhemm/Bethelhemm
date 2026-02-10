@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
-- 🌱 I’m currently working **Django, React, GraphQL**
+- I’m currently working **Django, React, GraphQL**
 
-- 👯 I’m looking to collaborate on **Open Source Projects and SaaS Ideas**
+- I’m looking to collaborate on **Open Source Projects and SaaS Ideas**
 
-- 💬 I am familiar with **Python, Django, Nodejs, REST APIs, PostgreSQL**
+- I am familiar with **Python, Django, Nodejs, REST APIs, PostgreSQL**
 
-- 📫 How to reach me: **bethelhemgebeyehu@gmail.com**
+- How to reach me: **bethelhemgebeyehu@gmail.com**
 
 
 ---
