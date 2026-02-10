@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
-- I’m currently working **Django, React, GraphQL**
+- I’m currently working **Backend Project and UI/UX Designs**
 
-- I’m looking to collaborate on **Open Source Projects and SaaS Ideas**
+- I’m looking to collaborate on **Open Source Projects**
 
 - I am familiar with **Python, Django, Nodejs, REST APIs, PostgreSQL**
 
